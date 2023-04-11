@@ -1,0 +1,16 @@
+li{
+    padding: 0.5em; 
+    display: inline; 
+    border: solid 1px;
+}
+li > a {
+    color: aliceblue;
+}
+header a{
+    color: aliceblue;
+}
+header{
+    margin: 2em 1em; 
+    color: aliceblue; 
+    background-color: black;
+}
