@@ -3,7 +3,7 @@ li{
     display: inline; 
     border: solid 1px;
 }
-li > a {
+li{
     color: aliceblue;
 }
 header a{
@@ -13,4 +13,25 @@ header{
     margin: 2em 1em; 
     color: aliceblue; 
     background-color: black;
+}
+ul li{
+    padding: 0.5em; 
+    display: inline; 
+    border: solid 1px;
+}
+ol li a{
+    color: black;
+}
+footer{
+    color: white;
+    background-color: black;
+}
+main{
+    height:min-content;
+}
+h1.lorem{
+    font-size: 200px;
+}
+.link_yt{
+    font-size: 10px;
 }
